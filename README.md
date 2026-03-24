@@ -1,5 +1,5 @@
-##Stabilizing Vision Transformers via CLS Token Regularization
-#Abstract
+## Stabilizing Vision Transformers via CLS Token Regularization
+# Abstract
 Vision Transformers(ViTs) have achieved competitive per-
 formance in the visual recognition tasks.However,their optimization re-
 mains sensitive to the training instability, especially under limited data
